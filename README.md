@@ -7,5 +7,5 @@ The website consist of a main index page which have links to a few recipes. The 
 
 This project is just to build my HTML chops.
 
-## Link to live preview:
-https://project-odin-recipes.netlify.app/
+## Go live preview:
+[click here](https://project-odin-recipes.netlify.app/)
