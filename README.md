@@ -1,6 +1,6 @@
 # odin-recipes
 
-It’s abasic project to practice all of the HTML knowledge acquired. 
+It’s a basic project to practice all of the HTML knowledge acquired. 
 In this project, I am going to build a basic recipe website.
 
 The website consist of a main index page which have links to a few recipes. The website won’t look very pretty by the time.
